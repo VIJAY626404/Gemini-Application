@@ -1,0 +1,6 @@
+streamlit
+google_generativeai
+python-dotenv
+langchain
+PyPDF2
+chromadb
